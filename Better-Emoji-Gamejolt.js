@@ -13,7 +13,7 @@
     // Emoji Mapping: "Old URL ID" : "New GitHub URL"
     const emojiMap = {
         // Previous Batches
-        "21896741": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E10.png?raw=true",
+        "21896741": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E6.png?raw=true",
         "21896764": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E1.png?raw=true",
         "21896759": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E29.png?raw=true",
         "21896751": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E18.png?raw=true",

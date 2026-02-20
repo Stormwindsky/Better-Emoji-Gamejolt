@@ -30,9 +30,14 @@
         "21896772": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E38.png?raw=true",
         "21896765": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E9.png?raw=true",
         "21896770": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/tongue.png?raw=true",
+        "21896756": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/Ninja.png?raw=true",
+        "21896739": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/bucktooth.png?raw=true",
+        "21896745": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/dizzy.png?raw=true",
+        "21896752": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/innocent.png?raw=true",
 
         // Latest Addition
-        "21896756": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/Ninja.png?raw=true"
+        "21896748": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E50.png?raw=true",
+        "21896749": "https://github.com/Stormwindsky/Better-Emoji-Gamejolt/blob/main/Emojis/E10.png?raw=true"
     };
 
     /**
